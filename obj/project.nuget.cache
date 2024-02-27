@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "EUZCh/vSbvQqRUv/asa2L3+Ke5pfVn0yehdAfsuy8JoaTka1ZOn9BlX3WAMSs/KCcALZ+186EtgUrKgSBfXIFw==",
+  "dgSpecHash": "7beKJ3f8vWO8m9ZVXo2OgpQBjNpYD2E+Vn9kBkWkgcLF4TaMeU+mB5/btQq9Q60isc4r5LOkMyd+JjxHMA8OMQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Willy\\VirtualGallery\\VirtualGallery.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Willy\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0-preview.1.24081.2\\microsoft.entityframeworkcore.9.0.0-preview.1.24081.2.nupkg.sha512",
+    "C:\\Users\\Willy\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.0-preview.1.24081.2\\microsoft.entityframeworkcore.abstractions.9.0.0-preview.1.24081.2.nupkg.sha512",
+    "C:\\Users\\Willy\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.0-preview.1.24081.2\\microsoft.entityframeworkcore.analyzers.9.0.0-preview.1.24081.2.nupkg.sha512",
+    "C:\\Users\\Willy\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.0-preview.1.24080.9\\microsoft.extensions.caching.abstractions.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "C:\\Users\\Willy\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.0-preview.1.24080.9\\microsoft.extensions.caching.memory.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "C:\\Users\\Willy\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0-preview.1.24080.9\\microsoft.extensions.dependencyinjection.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "C:\\Users\\Willy\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0-preview.1.24080.9\\microsoft.extensions.dependencyinjection.abstractions.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "C:\\Users\\Willy\\.nuget\\packages\\microsoft.extensions.logging\\9.0.0-preview.1.24080.9\\microsoft.extensions.logging.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "C:\\Users\\Willy\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.0-preview.1.24080.9\\microsoft.extensions.logging.abstractions.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "C:\\Users\\Willy\\.nuget\\packages\\microsoft.extensions.options\\9.0.0-preview.1.24080.9\\microsoft.extensions.options.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "C:\\Users\\Willy\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0-preview.1.24080.9\\microsoft.extensions.primitives.9.0.0-preview.1.24080.9.nupkg.sha512"
+  ],
   "logs": []
 }
