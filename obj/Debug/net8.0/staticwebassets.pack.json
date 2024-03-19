@@ -9,8 +9,20 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\Willy\\VirtualGallery\\wwwroot\\dist\\bundle.js",
+      "PackagePath": "staticwebassets\\dist\\bundle.js"
+    },
+    {
       "Id": "C:\\Users\\Willy\\VirtualGallery\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Willy\\VirtualGallery\\wwwroot\\js\\app.js",
+      "PackagePath": "staticwebassets\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\Willy\\VirtualGallery\\wwwroot\\js\\helloWorld.vue",
+      "PackagePath": "staticwebassets\\js\\helloWorld.vue"
     },
     {
       "Id": "C:\\Users\\Willy\\VirtualGallery\\wwwroot\\js\\site.js",

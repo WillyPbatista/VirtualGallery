@@ -157,3 +157,5 @@ C:\Users\Willy\VirtualGallery\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Wi
 C:\Users\Willy\VirtualGallery\obj\Debug\net8.0\VirtualGallery.csproj.AssemblyReference.cache
 C:\Users\Willy\VirtualGallery\obj\Debug\net8.0\VirtualGallery.sourcelink.json
 C:\Users\Willy\VirtualGallery\obj\Debug\net8.0\VirtualGallery.csproj.CopyComplete
+C:\Users\Willy\VirtualGallery\bin\Debug\net8.0\package-lock.json
+C:\Users\Willy\VirtualGallery\bin\Debug\net8.0\package.json
