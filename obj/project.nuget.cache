@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "fyVhyEnMxeEZVYmXVQO76tfB/BU8GE316mYfhAft2H64wFm2APDjjw9kN2dVj1Xx5Nlffxx5f7RjHX6F+rnvjA==",
+  "dgSpecHash": "9/a3u+zCf575z8FrmazP6WB7xNb5s4blqeASQMhwhHI6VTwojxyO94k7HELq8tIedSdL16XelpNtawJpw/UaCg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Willy\\VirtualGallery\\VirtualGallery.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Willy\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Willy\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Willy\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\Willy\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
